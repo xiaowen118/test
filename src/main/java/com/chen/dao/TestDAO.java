@@ -1,5 +1,5 @@
 /**
- * @author 54chen(陈臻) [chenzhen@xiaomi.com czhttp@gmail.com]
+ * @author wenrc [chenzhen@xiaomi.com czhttp@gmail.com]
  * @since 2012-6-27 下午08:29:22
  */
 package com.chen.dao;
